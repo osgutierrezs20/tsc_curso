@@ -1,0 +1,1 @@
+{"version":3,"file":"clase.d.ts","sourceRoot":"","sources":["clase.ts"],"names":[],"mappings":"AAAA,qBAAa,OAAO;IAChB,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,MAAM,CAAC;IACb,eAAe,EAAE,OAAO,CAAC;gBAEb,MAAM,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM,EAAE,eAAe,EAAE,OAAO;IAMlE,OAAO,IAAI,MAAM;CAKpB"}
